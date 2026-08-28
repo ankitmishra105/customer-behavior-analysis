@@ -33,7 +33,10 @@ The dataset contains **3,900 customer records** across **18 raw attributes**, ca
 * **SQL:** Relational data querying, cohort analysis, customer lifetime metrics, and category-level aggregations.
 * **Power BI:** Interactive multi-page dashboard with dynamic filters for sales KPIs, category performance, and demographic breakdowns.
 * **PowerPoint:** Executive slide deck presenting insights, data visualizations, and strategic business takeaways.
-<img src="C:\Users\ankit\Pictures\Screenshots\Screenshot 2026-08-28 210256.png" alt="Description of photo" width="400">
+
+
+![Alt text](https://github.com/ankitmishra105/customer-shopping-behavior-analysis/blob/51dffbb158956dc575f5639bc1386570bc54bc31/Screenshot%202026-08-28%20210256.png)
+
 
 ---
 
